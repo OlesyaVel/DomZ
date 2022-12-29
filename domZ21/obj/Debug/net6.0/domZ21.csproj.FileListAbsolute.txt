@@ -1,0 +1,15 @@
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\bin\Debug\net6.0\domZ21.exe
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\bin\Debug\net6.0\domZ21.deps.json
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\bin\Debug\net6.0\domZ21.runtimeconfig.json
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\bin\Debug\net6.0\domZ21.dll
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\bin\Debug\net6.0\domZ21.pdb
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\obj\Debug\net6.0\domZ21.csproj.AssemblyReference.cache
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\obj\Debug\net6.0\domZ21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\obj\Debug\net6.0\domZ21.AssemblyInfoInputs.cache
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\obj\Debug\net6.0\domZ21.AssemblyInfo.cs
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\obj\Debug\net6.0\domZ21.csproj.CoreCompileInputs.cache
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\obj\Debug\net6.0\domZ21.dll
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\obj\Debug\net6.0\refint\domZ21.dll
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\obj\Debug\net6.0\domZ21.pdb
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\obj\Debug\net6.0\domZ21.genruntimeconfig.cache
+C:\Users\lyusy\OneDrive\Рабочий стол\DZ C\domZ21\obj\Debug\net6.0\ref\domZ21.dll
